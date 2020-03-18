@@ -1,0 +1,13 @@
+body {
+    background-image: linear-gradient(to right, #23272A, #2C2F33)
+}
+
+.hyperlinks {
+    color: #7289DA;
+    text-decoration: none;
+}
+
+.hyperlinks:hover {
+    color: #5E7AE2;
+    text-decoration: none;
+}
