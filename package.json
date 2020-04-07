@@ -1,7 +1,7 @@
 {
-  "name": "ytsm-blogs",
+  "name": "wazifers-blogs",
   "version": "1.0.0",
-  "description": "YTSM blogs",
+  "description": "WaZifers blogs",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
