@@ -56,8 +56,7 @@ app.get("/logout", (req, res) => {
 });
 
 function checkAdmin(email) {
-    if (admins.includes(email)) return true;
-    return false;
+    return admins.includes(email);
 };
 
 module.exports = app;
